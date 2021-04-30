@@ -1,0 +1,27 @@
+{
+  "name": "dojo-assessment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eragon11/dojo-assessment-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eragon11/dojo-assessment-1/issues"
+  },
+  "homepage": "https://github.com/eragon11/dojo-assessment-1#readme",
+  "dependencies": {
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "mongodb-memory-server": "^6.9.1",
+    "mongoose": "^5.10.8"
+  }
+}
